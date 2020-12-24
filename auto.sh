@@ -62,7 +62,7 @@ then
 			yum install -y python36u python36u-libs python36u-devel python36u-pip wget php
 			pip3.6 install requests
 
-			wget http://origin-update.officemessenger.co.kr/solution/docker/officekeeper/install/setup.py
+			wget '회사 정보가 담긴 부분이라 제거하였습니다'
 
 
 			python3.6 setup.py
